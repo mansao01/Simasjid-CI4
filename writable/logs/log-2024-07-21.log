@@ -1,0 +1,1479 @@
+INFO - 2024-07-21 09:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 09:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 09:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 09:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-21 09:35:32 --> [DEPRECATED] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in APPPATH\Views\v_dashboard.php on line 88.
+ 1 APPPATH\Views\v_dashboard.php(88): number_format(null, 2, ',', '.')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_dashboard', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('v_dashboard')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\Admin.php(52): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 09:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 09:35:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 09:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 09:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 09:38:15 --> Undefined variable $detail
+in APPPATH\Views\Imam-Khotib\v_imam_khotib.php on line 83.
+ 1 APPPATH\Views\Imam-Khotib\v_imam_khotib.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php', 83)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(26): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 09:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 09:40:23 --> Undefined array key "id_petugas"
+in APPPATH\Views\Imam-Khotib\v_imam_khotib.php on line 83.
+ 1 APPPATH\Views\Imam-Khotib\v_imam_khotib.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php', 83)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(26): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 09:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 09:40:31 --> Undefined array key "id_petugas"
+in APPPATH\Views\Imam-Khotib\v_imam_khotib.php on line 83.
+ 1 APPPATH\Views\Imam-Khotib\v_imam_khotib.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php', 83)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(26): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 09:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 09:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 09:46:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 09:46:15 --> Undefined array key "id_anggaran"
+in APPPATH\Views\Imam-Khotib\v_imam_khotib.php on line 64.
+ 1 APPPATH\Views\Imam-Khotib\v_imam_khotib.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_anggaran"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php', 64)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(26): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 09:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 09:46:40 --> Undefined array key "id_anggaran"
+in APPPATH\Views\Imam-Khotib\v_imam_khotib.php on line 113.
+ 1 APPPATH\Views\Imam-Khotib\v_imam_khotib.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_anggaran"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php', 113)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(26): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 09:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 09:47:09 --> Undefined array key "id_anggaran"
+in APPPATH\Views\Imam-Khotib\v_imam_khotib.php on line 123.
+ 1 APPPATH\Views\Imam-Khotib\v_imam_khotib.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_anggaran"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php', 123)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(26): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 09:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 09:47:48 --> Undefined array key "uraian"
+in APPPATH\Views\Imam-Khotib\v_imam_khotib.php on line 126.
+ 1 APPPATH\Views\Imam-Khotib\v_imam_khotib.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "uraian"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php', 126)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(26): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 09:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 09:48:20 --> Undefined array key "id_anggaran"
+in APPPATH\Views\Imam-Khotib\v_imam_khotib.php on line 147.
+ 1 APPPATH\Views\Imam-Khotib\v_imam_khotib.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_anggaran"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php', 147)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(26): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 09:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 09:48:47 --> Undefined array key "id_anggaran"
+in APPPATH\Views\Imam-Khotib\v_imam_khotib.php on line 161.
+ 1 APPPATH\Views\Imam-Khotib\v_imam_khotib.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_anggaran"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php', 161)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(26): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 09:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 09:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 09:55:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 09:56:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 09:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:00:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:03:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 10:08:48 --> Too few arguments to function App\Controllers\Agenda::DeleteAnggaran(), 1 passed in C:\xampp\htdocs\Simasjid-CI4\system\CodeIgniter.php on line 942 and exactly 2 expected
+in APPPATH\Controllers\Agenda.php on line 277.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Agenda->DeleteAnggaran('3')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 10:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 10:14:14 --> Too few arguments to function App\Controllers\Agenda::DeleteAnggaran(), 1 passed in C:\xampp\htdocs\Simasjid-CI4\system\CodeIgniter.php on line 942 and exactly 2 expected
+in APPPATH\Controllers\Agenda.php on line 277.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Agenda->DeleteAnggaran('3')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 10:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 10:14:17 --> Too few arguments to function App\Controllers\Agenda::DeleteAnggaran(), 1 passed in C:\xampp\htdocs\Simasjid-CI4\system\CodeIgniter.php on line 942 and exactly 2 expected
+in APPPATH\Controllers\Agenda.php on line 277.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Agenda->DeleteAnggaran('3')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 10:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:14:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 10:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:04:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:07:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:19:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:22:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:22:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:23:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:25:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:25:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:27:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:27:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:28:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:28:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:32:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:35:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:36:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 11:39:11 --> Undefined variable $anggaran
+in APPPATH\Views\Imam-Khotib\v_imam_khotib.php on line 44.
+ 1 APPPATH\Views\Imam-Khotib\v_imam_khotib.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $anggaran', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php', 44)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(38): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 11:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:40:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 11:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-21 14:12:10 --> [DEPRECATED] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in APPPATH\Views\v_dashboard.php on line 88.
+ 1 APPPATH\Views\v_dashboard.php(88): number_format(null, 2, ',', '.')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_dashboard', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('v_dashboard')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\Admin.php(52): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:12:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:16:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:16:06 --> Undefined variable $setting
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 14.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $setting', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 14)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(38): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:19:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:19:18 --> Undefined variable $kota
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 19.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kota', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 19)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(42): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:20:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:20:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:20:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:20:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-21 14:20:32 --> [DEPRECATED] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in APPPATH\Views\v_dashboard.php on line 88.
+ 1 APPPATH\Views\v_dashboard.php(88): number_format(null, 2, ',', '.')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_dashboard', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('v_dashboard')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\Admin.php(52): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:20:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:28:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:29:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:30:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:32:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:34:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:41:27 --> Undefined array key "id_petugas"
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 33.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(42): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:42:46 --> Undefined array key "id_petugas"
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 33.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(42): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:42:48 --> Undefined array key "id_petugas"
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 33.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(42): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:44:52 --> Undefined variable $petugas
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 32.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $petugas', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 32)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(42): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:48:08 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 32.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 32)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(43): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:48:11 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 32.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 32)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(43): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:48:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:48:40 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 32.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 32)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(43): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:49:49 --> Undefined variable $kota
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 79.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kota', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 79)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(47): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:52:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:52:20 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 APPPATH\Models\ModelImamKhotib.php(32): CodeIgniter\Database\BaseConnection->table(null)
+ 2 APPPATH\Controllers\ImamKhotib.php(40): App\Models\ModelImamKhotib->select()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:52:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:52:38 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 APPPATH\Models\ModelImamKhotib.php(32): CodeIgniter\Database\BaseConnection->table(null)
+ 2 APPPATH\Controllers\ImamKhotib.php(40): App\Models\ModelImamKhotib->select()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:52:41 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 APPPATH\Models\ModelImamKhotib.php(32): CodeIgniter\Database\BaseConnection->table(null)
+ 2 APPPATH\Controllers\ImamKhotib.php(40): App\Models\ModelImamKhotib->select()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 14:52:47 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 APPPATH\Models\ModelImamKhotib.php(32): CodeIgniter\Database\BaseConnection->table(null)
+ 2 APPPATH\Controllers\ImamKhotib.php(40): App\Models\ModelImamKhotib->select()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 14:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 14:58:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:10:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:20:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 15:20:12 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 79.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 79)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(48): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 15:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:20:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 15:20:57 --> Undefined array key "id_petugas"
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 33.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(48): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 15:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 15:24:20 --> Undefined array key "id_petugas"
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 33.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(48): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 15:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 15:25:10 --> Undefined array key "id_petugas"
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 33.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(48): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 15:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 15:25:48 --> Undefined array key "id_petugas"
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 33.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(47): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 15:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:47:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 15:47:11 --> Undefined variable $setting
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 51.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $setting', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 51)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(46): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 15:47:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 15:47:42 --> Undefined variable $setting
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 51.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $setting', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 51)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(46): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 15:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:51:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 15:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-21 15:58:04 --> mysqli_sql_exception: Unknown column 'id_petugas' in 'field list' in C:\xampp\htdocs\Simasjid-CI4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Simasjid-CI4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `id_petu...', 0)
+#1 C:\xampp\htdocs\Simasjid-CI4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_petu...')
+#2 C:\xampp\htdocs\Simasjid-CI4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_petu...')
+#3 C:\xampp\htdocs\Simasjid-CI4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id_petu...', Array, false)
+#4 C:\xampp\htdocs\Simasjid-CI4\app\Models\ModelImamKhotib.php(35): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Simasjid-CI4\app\Controllers\ImamKhotib.php(39): App\Models\ModelImamKhotib->AllDataJadwal()
+#6 C:\xampp\htdocs\Simasjid-CI4\system\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+#7 C:\xampp\htdocs\Simasjid-CI4\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+#8 C:\xampp\htdocs\Simasjid-CI4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Simasjid-CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-07-21 15:58:04 --> Unknown column 'id_petugas' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id_petugas`, `nama_petugas`
+FROM `tbl_jadwal_imam`', [], false)
+ 2 APPPATH\Models\ModelImamKhotib.php(35): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\ImamKhotib.php(39): App\Models\ModelImamKhotib->AllDataJadwal()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 15:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 15:58:39 --> foreach() argument must be of type array|object, null given
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 20.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(47): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 15:58:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 16:00:50 --> Undefined array key "no_hp"
+in APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php on line 28.
+ 1 APPPATH\Views\Imam-Khotib\v_jadwal_imam_khotib.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "no_hp"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php', 28)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\Imam-Khotib\\v_jadwal_imam_khotib.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Imam-Khotib/v_jadwal_imam_khotib', [], true)
+ 5 APPPATH\Views\v_template_admin.php(651): view('Imam-Khotib/v_jadwal_imam_khotib')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\ImamKhotib.php(47): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 16:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-21 16:01:06 --> mysqli_sql_exception: Unknown column 'no_hp' in 'field list' in C:\xampp\htdocs\Simasjid-CI4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Simasjid-CI4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `id_petu...', 0)
+#1 C:\xampp\htdocs\Simasjid-CI4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_petu...')
+#2 C:\xampp\htdocs\Simasjid-CI4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_petu...')
+#3 C:\xampp\htdocs\Simasjid-CI4\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id_petu...', Array, false)
+#4 C:\xampp\htdocs\Simasjid-CI4\app\Models\ModelImamKhotib.php(42): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Simasjid-CI4\app\Controllers\ImamKhotib.php(40): App\Models\ModelImamKhotib->select()
+#6 C:\xampp\htdocs\Simasjid-CI4\system\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+#7 C:\xampp\htdocs\Simasjid-CI4\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+#8 C:\xampp\htdocs\Simasjid-CI4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Simasjid-CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-07-21 16:01:06 --> Unknown column 'no_hp' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `id_petugas`, `nama_petugas`, `no_hp`
+FROM `tbl_imam_khotib`', [], false)
+ 2 APPPATH\Models\ModelImamKhotib.php(42): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\ImamKhotib.php(40): App\Models\ModelImamKhotib->select()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 16:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:02:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:09:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:09:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:11:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:17:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:20:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:21:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:22:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:27:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:45:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:45:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:46:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:46:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:47:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:47:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:48:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:56:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 16:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 16:59:16 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\ImamKhotib.php(41): CodeIgniter\Model->__call('getJadwalWithPetugas', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ImamKhotib->JadwalImamKhotib()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImamKhotib))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 17:00:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:02:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:04:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:04:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:10:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:14:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 17:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 17:38:23 --> Call to a member function getJadwalWithPetugas() on null
+in APPPATH\Controllers\Home.php on line 137.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->JadwalImam()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-21 17:41:37 --> Call to a member function getPetugas() on null
+in APPPATH\Controllers\Home.php on line 137.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->JadwalImam()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-21 17:45:30 --> Call to a member function getPetugas() on null
+in APPPATH\Controllers\Home.php on line 137.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->JadwalImam()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-21 17:45:33 --> Call to a member function getPetugas() on null
+in APPPATH\Controllers\Home.php on line 137.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->JadwalImam()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-21 17:46:16 --> Call to a member function getPetugas() on null
+in APPPATH\Controllers\Home.php on line 137.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->JadwalImam()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 17:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 18:11:27 --> Call to a member function getPetugas() on null
+in APPPATH\Controllers\Home.php on line 137.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->JadwalImam()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-21 18:12:56 --> Model ImamKhotib not loaded.
+in APPPATH\Controllers\Home.php on line 135.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->JadwalImam()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-21 18:25:21 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(141): CodeIgniter\Model->__call('getPetugas', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->JadwalImam()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-21 18:29:54 --> Undefined array key "imam_dzuhur"
+in APPPATH\Views\front-end\v_jadwal_imam.php on line 47.
+ 1 APPPATH\Views\front-end\v_jadwal_imam.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "imam_dzuhur"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\front-end\\v_jadwal_imam.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\front-end\\v_jadwal_imam.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_jadwal_imam', [], true)
+ 5 APPPATH\Views\v_template.php(113): view('front-end/v_jadwal_imam')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Home.php(143): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->JadwalImam()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-21 18:30:23 --> Undefined array key "imam_dzuhur"
+in APPPATH\Views\front-end\v_jadwal_imam.php on line 47.
+ 1 APPPATH\Views\front-end\v_jadwal_imam.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "imam_dzuhur"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\front-end\\v_jadwal_imam.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\front-end\\v_jadwal_imam.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('front-end/v_jadwal_imam', [], true)
+ 5 APPPATH\Views\v_template.php(113): view('front-end/v_jadwal_imam')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Home.php(143): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->JadwalImam()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 19:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 19:36:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 19:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 19:37:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 19:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 19:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 19:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 19:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:25:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:26:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:26:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:27:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:27:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:28:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:28:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:29:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:30:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:30:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-21 21:30:41 --> [DEPRECATED] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in APPPATH\Views\v_dashboard.php on line 88.
+ 1 APPPATH\Views\v_dashboard.php(88): number_format(null, 2, ',', '.')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_dashboard', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_dashboard')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\Admin.php(52): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 21:31:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:31:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:32:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 21:55:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 21:55:00 --> Undefined array key "nama_user"
+in APPPATH\Views\v_pengurus_masjid.php on line 51.
+ 1 APPPATH\Views\v_pengurus_masjid.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_user"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 51)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 21:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 21:55:40 --> Undefined array key "nama_user"
+in APPPATH\Views\v_pengurus_masjid.php on line 51.
+ 1 APPPATH\Views\v_pengurus_masjid.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_user"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 51)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 21:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 21:56:51 --> Undefined array key "id_petugas"
+in APPPATH\Views\v_pengurus_masjid.php on line 64.
+ 1 APPPATH\Views\v_pengurus_masjid.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 64)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 21:57:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 21:57:38 --> Undefined array key "id_petugas"
+in APPPATH\Views\v_pengurus_masjid.php on line 117.
+ 1 APPPATH\Views\v_pengurus_masjid.php(117): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 117)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 21:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 21:58:10 --> Undefined array key "nama_petugas"
+in APPPATH\Views\v_pengurus_masjid.php on line 130.
+ 1 APPPATH\Views\v_pengurus_masjid.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 130)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 21:58:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 21:58:40 --> Undefined array key "no_petugas"
+in APPPATH\Views\v_pengurus_masjid.php on line 134.
+ 1 APPPATH\Views\v_pengurus_masjid.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "no_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 134)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 21:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 21:59:07 --> Undefined array key "nama_petugas"
+in APPPATH\Views\v_pengurus_masjid.php on line 166.
+ 1 APPPATH\Views\v_pengurus_masjid.php(166): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 166)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 21:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 21:59:24 --> Undefined array key "id_petugas"
+in APPPATH\Views\v_pengurus_masjid.php on line 170.
+ 1 APPPATH\Views\v_pengurus_masjid.php(170): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 170)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 21:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:16:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:17:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:18:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:18:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:20:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:20:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:20:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-21 22:20:35 --> [DEPRECATED] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in APPPATH\Views\v_dashboard.php on line 88.
+ 1 APPPATH\Views\v_dashboard.php(88): number_format(null, 2, ',', '.')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_dashboard', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_dashboard')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\Admin.php(52): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 22:20:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:23:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:23:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-21 22:23:19 --> [DEPRECATED] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in APPPATH\Views\v_dashboard.php on line 88.
+ 1 APPPATH\Views\v_dashboard.php(88): number_format(null, 2, ',', '.')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_dashboard', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_dashboard')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\Admin.php(52): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 22:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:23:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:26:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:30:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 22:32:01 --> Allowed fields must be specified for model: "App\Models\ModelPengurusMasjid"
+in SYSTEMPATH\BaseModel.php on line 1257.
+ 1 SYSTEMPATH\BaseModel.php(1257): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPengurusMasjid')
+ 2 SYSTEMPATH\BaseModel.php(925): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(776): CodeIgniter\BaseModel->update([...], [...])
+ 4 APPPATH\Controllers\PengurusMasjid.php(61): CodeIgniter\Model->update('31', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->UpdateDataPengurus('31')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 22:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:34:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 22:36:48 --> Undefined array key "id_petugas"
+in APPPATH\Models\ModelPengurusMasjid.php on line 33.
+ 1 APPPATH\Models\ModelPengurusMasjid.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_petugas"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Models\\ModelPengurusMasjid.php', 33)
+ 2 APPPATH\Controllers\PengurusMasjid.php(70): App\Models\ModelPengurusMasjid->DeleteData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->DeleteDataPengurus('36')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 22:37:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:37:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:37:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 22:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:05:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 23:12:50 --> Undefined array key "jabatan"
+in APPPATH\Views\v_pengurus_masjid.php on line 107.
+ 1 APPPATH\Views\v_pengurus_masjid.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jabatan"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 107)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 23:13:26 --> Undefined array key "jabatan"
+in APPPATH\Views\v_pengurus_masjid.php on line 107.
+ 1 APPPATH\Views\v_pengurus_masjid.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jabatan"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 107)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 23:13:57 --> Undefined array key "email"
+in APPPATH\Views\v_pengurus_masjid.php on line 107.
+ 1 APPPATH\Views\v_pengurus_masjid.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "email"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 107)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:14:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 23:14:51 --> Undefined array key "nama_jabatan"
+in APPPATH\Views\v_pengurus_masjid.php on line 108.
+ 1 APPPATH\Views\v_pengurus_masjid.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_jabatan"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 108)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:15:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 23:25:46 --> Undefined array key "jabatan"
+in APPPATH\Views\v_pengurus_masjid.php on line 60.
+ 1 APPPATH\Views\v_pengurus_masjid.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jabatan"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 60)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 23:27:22 --> Undefined array key "jabatan"
+in APPPATH\Views\v_pengurus_masjid.php on line 60.
+ 1 APPPATH\Views\v_pengurus_masjid.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jabatan"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 60)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 23:27:38 --> Undefined array key "jabatan"
+in APPPATH\Views\v_pengurus_masjid.php on line 107.
+ 1 APPPATH\Views\v_pengurus_masjid.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jabatan"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 107)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 23:27:59 --> Undefined array key "jabatan"
+in APPPATH\Views\v_pengurus_masjid.php on line 160.
+ 1 APPPATH\Views\v_pengurus_masjid.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jabatan"', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 160)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 23:34:28 --> Undefined variable $jabatan
+in APPPATH\Views\v_pengurus_masjid.php on line 106.
+ 1 APPPATH\Views\v_pengurus_masjid.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jabatan', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 23:37:36 --> Undefined variable $jabatan
+in APPPATH\Views\v_pengurus_masjid.php on line 106.
+ 1 APPPATH\Views\v_pengurus_masjid.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jabatan', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 23:37:38 --> Undefined variable $jabatan
+in APPPATH\Views\v_pengurus_masjid.php on line 106.
+ 1 APPPATH\Views\v_pengurus_masjid.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jabatan', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php', 106)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_pengurus_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_pengurus_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_pengurus_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\PengurusMasjid.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PengurusMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PengurusMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:38:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:39:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:39:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:49:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-21 23:49:54 --> [DEPRECATED] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in APPPATH\Views\v_dashboard.php on line 88.
+ 1 APPPATH\Views\v_dashboard.php(88): number_format(null, 2, ',', '.')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_dashboard', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_dashboard')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\Admin.php(52): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:49:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-21 23:50:36 --> [DEPRECATED] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in APPPATH\Views\kas-masjid\v_rekap_kas_masjid.php on line 67.
+ 1 APPPATH\Views\kas-masjid\v_rekap_kas_masjid.php(67): number_format(null, 0)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\kas-masjid\\v_rekap_kas_masjid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('kas-masjid/v_rekap_kas_masjid', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('kas-masjid/v_rekap_kas_masjid')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\KasMasjid.php(33): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\KasMasjid->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KasMasjid))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:50:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:51:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:51:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:51:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:51:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-21 23:51:37 --> [DEPRECATED] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in APPPATH\Views\v_dashboard.php on line 88.
+ 1 APPPATH\Views\v_dashboard.php(88): number_format(null, 2, ',', '.')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_dashboard', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_dashboard')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\Admin.php(52): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:51:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:53:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-21 23:53:25 --> [DEPRECATED] number_format(): Passing null to parameter #1 ($num) of type float is deprecated in APPPATH\Views\v_dashboard.php on line 88.
+ 1 APPPATH\Views\v_dashboard.php(88): number_format(null, 2, ',', '.')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_dashboard', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('v_dashboard')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\Admin.php(52): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-21 23:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-21 23:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-21 23:56:55 --> Undefined variable $user
+in APPPATH\Views\agenda\v_agenda.php on line 111.
+ 1 APPPATH\Views\agenda\v_agenda.php(111): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\agenda\\v_agenda.php', 111)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\agenda\\v_agenda.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('agenda/v_agenda', [], true)
+ 5 APPPATH\Views\v_template_admin.php(664): view('agenda/v_agenda')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\Agenda.php(27): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Agenda->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

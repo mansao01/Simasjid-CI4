@@ -1,0 +1,68 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+.keterangan th{
+  text-align: center;
+}
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-success {
+  color: green;
+}
+
+.text-danger {
+  color: red;
+}
+
+@media print {
+  .no-print {
+    display: none;
+  }
+}
+
+.signature-section {
+  margin-top: 10px;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.signature {
+  width: 30%;
+  margin: 0 50px;
+  text-align: left;
+}
+
+.signature-right {
+  width: 25%;
+}
+
+.signature p {
+  font-family: 'Times New Roman';
+  font-size: 14px;
+}
+
+.signature .name {
+  margin-top: 70px;
+  padding-top: 10px;
+}

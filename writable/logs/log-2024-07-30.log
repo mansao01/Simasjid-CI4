@@ -1,0 +1,1920 @@
+INFO - 2024-07-30 00:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 00:42:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 00:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 01:03:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 01:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 01:04:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 01:04:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 01:04:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 01:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 01:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 01:17:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 01:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 07:59:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 07:59:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 07:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 07:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 07:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 07:59:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 07:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 07:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 08:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 08:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 08:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 08:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 08:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 08:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 08:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 08:21:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:35:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:35:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:46:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:46:22 --> Tanggal Awal: 2024-07-01
+INFO - 2024-07-30 09:46:22 --> Tanggal Akhir: 2024-07-30
+INFO - 2024-07-30 09:46:22 --> Data untuk view: Array
+(
+    [judultglawal] => 01 Juli 2024
+    [judultglakhir] => 30 Juli 2024
+    [tglAwal] => 2024-07-01
+    [tglAkhir] => 2024-07-30
+    [kas] => Array
+        (
+            [0] => Array
+                (
+                    [id_kas_masjid] => 2
+                    [id_user] => 
+                    [ket] => Kotak Besar
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 4585000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [1] => Array
+                (
+                    [id_kas_masjid] => 25
+                    [id_user] => 
+                    [ket] => Kegiatan APAB (Konsumsi dan Bisyaroh)
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 0
+                    [kas_keluar] => 2455000
+                    [status] => Keluar
+                )
+
+            [2] => Array
+                (
+                    [id_kas_masjid] => 26
+                    [id_user] => 
+                    [ket] => Operasional Jum'at I
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 0
+                    [kas_keluar] => 3457000
+                    [status] => Keluar
+                )
+
+            [3] => Array
+                (
+                    [id_kas_masjid] => 6
+                    [id_user] => 
+                    [ket] => Shodaqoh Hamba Allah
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 1000000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [4] => Array
+                (
+                    [id_kas_masjid] => 5
+                    [id_user] => 
+                    [ket] => Kotak WC luar
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 287000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [5] => Array
+                (
+                    [id_kas_masjid] => 4
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 4655000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [6] => Array
+                (
+                    [id_kas_masjid] => 3
+                    [id_user] => 
+                    [ket] => Kotak kecil
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 4100000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [7] => Array
+                (
+                    [id_kas_masjid] => 28
+                    [id_user] => 
+                    [ket] => Operasional Jum'at II
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 0
+                    [kas_keluar] => 2682000
+                    [status] => Keluar
+                )
+
+            [8] => Array
+                (
+                    [id_kas_masjid] => 27
+                    [id_user] => 
+                    [ket] => Titip Bapak H. Sunari (plapon luar)
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 0
+                    [kas_keluar] => 10000000
+                    [status] => Keluar
+                )
+
+            [9] => Array
+                (
+                    [id_kas_masjid] => 9
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 3310000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [10] => Array
+                (
+                    [id_kas_masjid] => 8
+                    [id_user] => 
+                    [ket] => Kotak Kecil
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 5908000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [11] => Array
+                (
+                    [id_kas_masjid] => 7
+                    [id_user] => 
+                    [ket] => Kotak Besar
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 4807000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [12] => Array
+                (
+                    [id_kas_masjid] => 10
+                    [id_user] => 
+                    [ket] => Kotak Keseluruhan
+                    [tanggal] => 2024-07-15
+                    [kas_masuk] => 12642000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [13] => Array
+                (
+                    [id_kas_masjid] => 29
+                    [id_user] => 
+                    [ket] => Listrik Des
+                    [tanggal] => 2024-07-15
+                    [kas_masuk] => 0
+                    [kas_keluar] => 3973000
+                    [status] => Keluar
+                )
+
+            [14] => Array
+                (
+                    [id_kas_masjid] => 30
+                    [id_user] => 
+                    [ket] => Operasional Jum'at III
+                    [tanggal] => 2024-07-15
+                    [kas_masuk] => 0
+                    [kas_keluar] => 2745000
+                    [status] => Keluar
+                )
+
+            [15] => Array
+                (
+                    [id_kas_masjid] => 31
+                    [id_user] => 
+                    [ket] => Bayar CV
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 0
+                    [kas_keluar] => 20550000
+                    [status] => Keluar
+                )
+
+            [16] => Array
+                (
+                    [id_kas_masjid] => 32
+                    [id_user] => 
+                    [ket] => Operasional Jum'at IV
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 0
+                    [kas_keluar] => 3475000
+                    [status] => Keluar
+                )
+
+            [17] => Array
+                (
+                    [id_kas_masjid] => 14
+                    [id_user] => 
+                    [ket] => Al Khikmah
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 200000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [18] => Array
+                (
+                    [id_kas_masjid] => 15
+                    [id_user] => 
+                    [ket] => Ahbabul Mustofa
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 400000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [19] => Array
+                (
+                    [id_kas_masjid] => 13
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 4665000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [20] => Array
+                (
+                    [id_kas_masjid] => 12
+                    [id_user] => 
+                    [ket] => Kotak Kecil
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 4200000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [21] => Array
+                (
+                    [id_kas_masjid] => 11
+                    [id_user] => 
+                    [ket] => Kotak besar
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 3961000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [22] => Array
+                (
+                    [id_kas_masjid] => 33
+                    [id_user] => 
+                    [ket] => Bisyaroh+Operasional Bulanan
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 0
+                    [kas_keluar] => 13800000
+                    [status] => Keluar
+                )
+
+            [23] => Array
+                (
+                    [id_kas_masjid] => 34
+                    [id_user] => 
+                    [ket] => Nasi Sedekah Subuh
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 0
+                    [kas_keluar] => 600000
+                    [status] => Keluar
+                )
+
+            [24] => Array
+                (
+                    [id_kas_masjid] => 23
+                    [id_user] => 
+                    [ket] => Shodaqoh Bu Hj. Muinah
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 800000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [25] => Array
+                (
+                    [id_kas_masjid] => 22
+                    [id_user] => 
+                    [ket] => Kotak Minum
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 207000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [26] => Array
+                (
+                    [id_kas_masjid] => 21
+                    [id_user] => 
+                    [ket] => Shodaqoh  Dek Ali
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 1250000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [27] => Array
+                (
+                    [id_kas_masjid] => 20
+                    [id_user] => 
+                    [ket] => Shodaqoh Syarifah
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 500000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [28] => Array
+                (
+                    [id_kas_masjid] => 19
+                    [id_user] => 
+                    [ket] => Shodaqoh Lily Vikly
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 1000000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [29] => Array
+                (
+                    [id_kas_masjid] => 18
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 4650000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [30] => Array
+                (
+                    [id_kas_masjid] => 17
+                    [id_user] => 
+                    [ket] => Kotak Kecil
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 4267000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [31] => Array
+                (
+                    [id_kas_masjid] => 16
+                    [id_user] => 
+                    [ket] => Kotak Besar
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 8331000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [32] => Array
+                (
+                    [id_kas_masjid] => 35
+                    [id_user] => 
+                    [ket] => Operasional Jum'at V
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 0
+                    [kas_keluar] => 1484000
+                    [status] => Keluar
+                )
+
+        )
+
+    [totalPemasukanBefore] => 388159661
+    [totalPengeluaranBefore] => 363386964
+    [saldoSebelumTglAwal] => 24772697
+    [totalPemasukan] => 75725000
+    [totalPengeluaran] => 65221000
+    [saldoAkhir] => 10504000
+    [totalpemasukansetelah] => 463884661
+    [totalpengeluaransetelah] => 428607964
+    [totalsaldosetelah] => 35276697
+    [tanggalSekarang] => 30 Juli 2024
+    [namaKetua] => Drs. H. Noor Badi, M.M
+    [namaBendahara] => H. Asyrofi As'ad
+    [masjid] => Array
+        (
+            [id] => 1
+            [nama_masjid] => Masjid Agung Kudus
+            [id_kota] => 1415
+            [alamat] => Jl. Simpang Tujuh, Kudus, Demaan, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59317
+            [gambar1] => 1722232199_f0ddf59d33b033c4f078.jpg
+            [gambar2] => 1722232199_8f6607b9370c2a2d73a0.jpg
+            [gambar3] => 1722239200_c8fb8d22d7fe8b357741.jpg
+        )
+
+)
+
+INFO - 2024-07-30 09:46:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:46:24 --> Data yang diterima: {"tgl_cetak":"2024-07-30 09:46:24","total_pemasukan":"75725000","total_pengeluaran":"65221000","saldo":"10504000","saldo_sebelumnya":"24772697","saldo_setelahnya":"35276697","tgl_awal":"2024-07-01","tgl_akhir":"2024-07-30","ketua_umum":"Drs. H. Noor Badi, M.M","bendahara":"H. Asyrofi As'ad","id_user":"20"}
+INFO - 2024-07-30 09:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:47:04 --> Data yang diterima: {"tgl_cetak":"2024-07-30 09:47:04","total_pemasukan":"75725000","total_pengeluaran":"65221000","saldo":"10504000","saldo_sebelumnya":"24772697","saldo_setelahnya":"35276697","tgl_awal":"2024-07-01","tgl_akhir":"2024-07-30","ketua_umum":"Drs. H. Noor Badi, M.M","bendahara":"H. Asyrofi As'ad","id_user":"20"}
+INFO - 2024-07-30 09:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:49:15 --> Tanggal Awal: 2024-07-01
+INFO - 2024-07-30 09:49:15 --> Tanggal Akhir: 2024-07-30
+INFO - 2024-07-30 09:49:16 --> Data untuk view: Array
+(
+    [judultglawal] => 01 Juli 2024
+    [judultglakhir] => 30 Juli 2024
+    [tglAwal] => 2024-07-01
+    [tglAkhir] => 2024-07-30
+    [kas] => Array
+        (
+            [0] => Array
+                (
+                    [id_kas_masjid] => 2
+                    [id_user] => 
+                    [ket] => Kotak Besar
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 4585000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [1] => Array
+                (
+                    [id_kas_masjid] => 25
+                    [id_user] => 
+                    [ket] => Kegiatan APAB (Konsumsi dan Bisyaroh)
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 0
+                    [kas_keluar] => 2455000
+                    [status] => Keluar
+                )
+
+            [2] => Array
+                (
+                    [id_kas_masjid] => 26
+                    [id_user] => 
+                    [ket] => Operasional Jum'at I
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 0
+                    [kas_keluar] => 3457000
+                    [status] => Keluar
+                )
+
+            [3] => Array
+                (
+                    [id_kas_masjid] => 6
+                    [id_user] => 
+                    [ket] => Shodaqoh Hamba Allah
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 1000000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [4] => Array
+                (
+                    [id_kas_masjid] => 5
+                    [id_user] => 
+                    [ket] => Kotak WC luar
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 287000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [5] => Array
+                (
+                    [id_kas_masjid] => 4
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 4655000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [6] => Array
+                (
+                    [id_kas_masjid] => 3
+                    [id_user] => 
+                    [ket] => Kotak kecil
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 4100000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [7] => Array
+                (
+                    [id_kas_masjid] => 28
+                    [id_user] => 
+                    [ket] => Operasional Jum'at II
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 0
+                    [kas_keluar] => 2682000
+                    [status] => Keluar
+                )
+
+            [8] => Array
+                (
+                    [id_kas_masjid] => 27
+                    [id_user] => 
+                    [ket] => Titip Bapak H. Sunari (plapon luar)
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 0
+                    [kas_keluar] => 10000000
+                    [status] => Keluar
+                )
+
+            [9] => Array
+                (
+                    [id_kas_masjid] => 9
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 3310000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [10] => Array
+                (
+                    [id_kas_masjid] => 8
+                    [id_user] => 
+                    [ket] => Kotak Kecil
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 5908000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [11] => Array
+                (
+                    [id_kas_masjid] => 7
+                    [id_user] => 
+                    [ket] => Kotak Besar
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 4807000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [12] => Array
+                (
+                    [id_kas_masjid] => 10
+                    [id_user] => 
+                    [ket] => Kotak Keseluruhan
+                    [tanggal] => 2024-07-15
+                    [kas_masuk] => 12642000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [13] => Array
+                (
+                    [id_kas_masjid] => 29
+                    [id_user] => 
+                    [ket] => Listrik Des
+                    [tanggal] => 2024-07-15
+                    [kas_masuk] => 0
+                    [kas_keluar] => 3973000
+                    [status] => Keluar
+                )
+
+            [14] => Array
+                (
+                    [id_kas_masjid] => 30
+                    [id_user] => 
+                    [ket] => Operasional Jum'at III
+                    [tanggal] => 2024-07-15
+                    [kas_masuk] => 0
+                    [kas_keluar] => 2745000
+                    [status] => Keluar
+                )
+
+            [15] => Array
+                (
+                    [id_kas_masjid] => 31
+                    [id_user] => 
+                    [ket] => Bayar CV
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 0
+                    [kas_keluar] => 20550000
+                    [status] => Keluar
+                )
+
+            [16] => Array
+                (
+                    [id_kas_masjid] => 32
+                    [id_user] => 
+                    [ket] => Operasional Jum'at IV
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 0
+                    [kas_keluar] => 3475000
+                    [status] => Keluar
+                )
+
+            [17] => Array
+                (
+                    [id_kas_masjid] => 14
+                    [id_user] => 
+                    [ket] => Al Khikmah
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 200000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [18] => Array
+                (
+                    [id_kas_masjid] => 15
+                    [id_user] => 
+                    [ket] => Ahbabul Mustofa
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 400000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [19] => Array
+                (
+                    [id_kas_masjid] => 13
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 4665000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [20] => Array
+                (
+                    [id_kas_masjid] => 12
+                    [id_user] => 
+                    [ket] => Kotak Kecil
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 4200000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [21] => Array
+                (
+                    [id_kas_masjid] => 11
+                    [id_user] => 
+                    [ket] => Kotak besar
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 3961000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [22] => Array
+                (
+                    [id_kas_masjid] => 33
+                    [id_user] => 
+                    [ket] => Bisyaroh+Operasional Bulanan
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 0
+                    [kas_keluar] => 13800000
+                    [status] => Keluar
+                )
+
+            [23] => Array
+                (
+                    [id_kas_masjid] => 34
+                    [id_user] => 
+                    [ket] => Nasi Sedekah Subuh
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 0
+                    [kas_keluar] => 600000
+                    [status] => Keluar
+                )
+
+            [24] => Array
+                (
+                    [id_kas_masjid] => 23
+                    [id_user] => 
+                    [ket] => Shodaqoh Bu Hj. Muinah
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 800000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [25] => Array
+                (
+                    [id_kas_masjid] => 22
+                    [id_user] => 
+                    [ket] => Kotak Minum
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 207000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [26] => Array
+                (
+                    [id_kas_masjid] => 21
+                    [id_user] => 
+                    [ket] => Shodaqoh  Dek Ali
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 1250000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [27] => Array
+                (
+                    [id_kas_masjid] => 20
+                    [id_user] => 
+                    [ket] => Shodaqoh Syarifah
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 500000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [28] => Array
+                (
+                    [id_kas_masjid] => 19
+                    [id_user] => 
+                    [ket] => Shodaqoh Lily Vikly
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 1000000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [29] => Array
+                (
+                    [id_kas_masjid] => 18
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 4650000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [30] => Array
+                (
+                    [id_kas_masjid] => 17
+                    [id_user] => 
+                    [ket] => Kotak Kecil
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 4267000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [31] => Array
+                (
+                    [id_kas_masjid] => 16
+                    [id_user] => 
+                    [ket] => Kotak Besar
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 8331000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [32] => Array
+                (
+                    [id_kas_masjid] => 35
+                    [id_user] => 
+                    [ket] => Operasional Jum'at V
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 0
+                    [kas_keluar] => 1484000
+                    [status] => Keluar
+                )
+
+        )
+
+    [totalPemasukanBefore] => 388159661
+    [totalPengeluaranBefore] => 363386964
+    [saldoSebelumTglAwal] => 24772697
+    [totalPemasukan] => 75725000
+    [totalPengeluaran] => 65221000
+    [saldoAkhir] => 10504000
+    [totalpemasukansetelah] => 463884661
+    [totalpengeluaransetelah] => 428607964
+    [totalsaldosetelah] => 35276697
+    [tanggalSekarang] => 30 Juli 2024
+    [namaKetua] => Drs. H. Noor Badi, M.M
+    [namaBendahara] => H. Asyrofi As'ad
+    [masjid] => Array
+        (
+            [id] => 1
+            [nama_masjid] => Masjid Agung Kudus
+            [id_kota] => 1415
+            [alamat] => Jl. Simpang Tujuh, Kudus, Demaan, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59317
+            [gambar1] => 1722232199_f0ddf59d33b033c4f078.jpg
+            [gambar2] => 1722232199_8f6607b9370c2a2d73a0.jpg
+            [gambar3] => 1722239200_c8fb8d22d7fe8b357741.jpg
+        )
+
+)
+
+INFO - 2024-07-30 09:49:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:49:21 --> Data yang diterima: {"tgl_cetak":"2024-07-30 09:49:21","total_pemasukan":"75725000","total_pengeluaran":"65221000","saldo":"10504000","saldo_sebelumnya":"24772697","saldo_setelahnya":"35276697","tgl_awal":"2024-07-01","tgl_akhir":"2024-07-30","ketua_umum":"Drs. H. Noor Badi, M.M","bendahara":"H. Asyrofi As'ad","id_user":"20"}
+INFO - 2024-07-30 09:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 09:51:21 --> Data yang diterima: {"tgl_cetak":"2024-07-30 09:51:21","total_pemasukan":"75725000","total_pengeluaran":"65221000","saldo":"10504000","saldo_sebelumnya":"24772697","saldo_setelahnya":"35276697","tgl_awal":"2024-07-01","tgl_akhir":"2024-07-30","ketua_umum":"Drs. H. Noor Badi, M.M","bendahara":"H. Asyrofi As'ad","id_user":"20"}
+INFO - 2024-07-30 11:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 11:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 11:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 11:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 11:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:30:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:30:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:31:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-30 12:31:12 --> Array to string conversion
+in APPPATH\Views\v_login.php on line 52.
+ 1 APPPATH\Views\v_login.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_login.php', 52)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_login.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_login', [], true)
+ 5 APPPATH\Controllers\Login.php(24): view('v_login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-30 12:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:33:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:33:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:53:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:53:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 12:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:11:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:11:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-30 13:11:21 --> Array to string conversion
+in APPPATH\Views\v_setting.php on line 19.
+ 1 APPPATH\Views\v_setting.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_setting.php', 19)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_setting.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_setting', [], true)
+ 5 APPPATH\Views\v_template_admin.php(715): view('v_setting')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Views\\v_template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template_admin', [], true)
+ 9 APPPATH\Controllers\Admin.php(68): view('v_template_admin', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->Setting()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-30 13:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:26:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:26:39 --> Data yang akan diperbarui: {"nama_masjid":"Masjid Agung Kudus","id_kota":"1415","alamat":"Jl. Simpang Tujuh, Kudus, Demaan, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59317","gambar1":"1722320799_f0f9a506dcbbf0108f22.docx","gambar2":"1722232199_8f6607b9370c2a2d73a0.jpg","gambar3":"1722239200_c8fb8d22d7fe8b357741.jpg"}
+INFO - 2024-07-30 13:26:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:27:49 --> Data yang akan diperbarui: {"nama_masjid":"Masjid Agung Kudus","id_kota":"1415","alamat":"Jl. Simpang Tujuh, Kudus, Demaan, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59317","gambar1":"1722320869_6121d9e2405e7fa40365.pdf","gambar2":"1722232199_8f6607b9370c2a2d73a0.jpg","gambar3":"1722239200_c8fb8d22d7fe8b357741.jpg"}
+INFO - 2024-07-30 13:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:28:16 --> Data yang akan diperbarui: {"nama_masjid":"Masjid Agung Kudus","id_kota":"1415","alamat":"Jl. Simpang Tujuh, Kudus, Demaan, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59317","gambar1":"1722320896_a85d421cf7eaf66ebc9f.exe","gambar2":"1722232199_8f6607b9370c2a2d73a0.jpg","gambar3":"1722239200_c8fb8d22d7fe8b357741.jpg"}
+INFO - 2024-07-30 13:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:29:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:30:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:30:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:30:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:34:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:34:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:34:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:34:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:34:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:34:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:37:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:38:07 --> Data yang akan diperbarui: {"nama_masjid":"Masjid Agung Kudus","id_kota":"1415","alamat":"Jl. Simpang Tujuh, Kudus, Demaan, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59317","gambar1":"1722321487_8608834a4672cc44a04e.jpeg","gambar2":"1722232199_8f6607b9370c2a2d73a0.jpg","gambar3":"1722239200_c8fb8d22d7fe8b357741.jpg"}
+INFO - 2024-07-30 13:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 13:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 14:43:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 14:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 14:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 15:21:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 15:51:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 15:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 15:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:00:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:04:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:04:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:05:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:06:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:18:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:19:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:28:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:28:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:44:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 16:53:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 17:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 17:28:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 18:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 18:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 18:46:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 18:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 18:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 18:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 18:51:55 --> Tanggal Awal: 2024-07-01
+INFO - 2024-07-30 18:51:55 --> Tanggal Akhir: 2024-07-30
+INFO - 2024-07-30 18:51:55 --> Data untuk view: Array
+(
+    [judultglawal] => 01 Juli 2024
+    [judultglakhir] => 30 Juli 2024
+    [tglAwal] => 2024-07-01
+    [tglAkhir] => 2024-07-30
+    [kas] => Array
+        (
+            [0] => Array
+                (
+                    [id_kas_masjid] => 2
+                    [id_user] => 
+                    [ket] => Kotak Besar
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 4585000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [1] => Array
+                (
+                    [id_kas_masjid] => 25
+                    [id_user] => 
+                    [ket] => Kegiatan APAB (Konsumsi dan Bisyaroh)
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 0
+                    [kas_keluar] => 2455000
+                    [status] => Keluar
+                )
+
+            [2] => Array
+                (
+                    [id_kas_masjid] => 26
+                    [id_user] => 
+                    [ket] => Operasional Jum'at I
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 0
+                    [kas_keluar] => 3457000
+                    [status] => Keluar
+                )
+
+            [3] => Array
+                (
+                    [id_kas_masjid] => 6
+                    [id_user] => 
+                    [ket] => Shodaqoh Hamba Allah
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 1000000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [4] => Array
+                (
+                    [id_kas_masjid] => 5
+                    [id_user] => 
+                    [ket] => Kotak WC luar
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 287000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [5] => Array
+                (
+                    [id_kas_masjid] => 4
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 4655000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [6] => Array
+                (
+                    [id_kas_masjid] => 3
+                    [id_user] => 
+                    [ket] => Kotak kecil
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 4100000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [7] => Array
+                (
+                    [id_kas_masjid] => 28
+                    [id_user] => 
+                    [ket] => Operasional Jum'at II
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 0
+                    [kas_keluar] => 2682000
+                    [status] => Keluar
+                )
+
+            [8] => Array
+                (
+                    [id_kas_masjid] => 27
+                    [id_user] => 
+                    [ket] => Titip Bapak H. Sunari (plapon luar)
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 0
+                    [kas_keluar] => 10000000
+                    [status] => Keluar
+                )
+
+            [9] => Array
+                (
+                    [id_kas_masjid] => 9
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 3310000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [10] => Array
+                (
+                    [id_kas_masjid] => 8
+                    [id_user] => 
+                    [ket] => Kotak Kecil
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 5908000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [11] => Array
+                (
+                    [id_kas_masjid] => 7
+                    [id_user] => 
+                    [ket] => Kotak Besar
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 4807000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [12] => Array
+                (
+                    [id_kas_masjid] => 10
+                    [id_user] => 
+                    [ket] => Kotak Keseluruhan
+                    [tanggal] => 2024-07-15
+                    [kas_masuk] => 12642000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [13] => Array
+                (
+                    [id_kas_masjid] => 29
+                    [id_user] => 
+                    [ket] => Listrik Des
+                    [tanggal] => 2024-07-15
+                    [kas_masuk] => 0
+                    [kas_keluar] => 3973000
+                    [status] => Keluar
+                )
+
+            [14] => Array
+                (
+                    [id_kas_masjid] => 30
+                    [id_user] => 
+                    [ket] => Operasional Jum'at III
+                    [tanggal] => 2024-07-15
+                    [kas_masuk] => 0
+                    [kas_keluar] => 2745000
+                    [status] => Keluar
+                )
+
+            [15] => Array
+                (
+                    [id_kas_masjid] => 31
+                    [id_user] => 
+                    [ket] => Bayar CV
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 0
+                    [kas_keluar] => 20550000
+                    [status] => Keluar
+                )
+
+            [16] => Array
+                (
+                    [id_kas_masjid] => 32
+                    [id_user] => 
+                    [ket] => Operasional Jum'at IV
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 0
+                    [kas_keluar] => 3475000
+                    [status] => Keluar
+                )
+
+            [17] => Array
+                (
+                    [id_kas_masjid] => 14
+                    [id_user] => 
+                    [ket] => Al Khikmah
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 200000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [18] => Array
+                (
+                    [id_kas_masjid] => 15
+                    [id_user] => 
+                    [ket] => Ahbabul Mustofa
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 400000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [19] => Array
+                (
+                    [id_kas_masjid] => 13
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 4665000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [20] => Array
+                (
+                    [id_kas_masjid] => 12
+                    [id_user] => 
+                    [ket] => Kotak Kecil
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 4200000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [21] => Array
+                (
+                    [id_kas_masjid] => 11
+                    [id_user] => 
+                    [ket] => Kotak besar
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 3961000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [22] => Array
+                (
+                    [id_kas_masjid] => 33
+                    [id_user] => 
+                    [ket] => Bisyaroh+Operasional Bulanan
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 0
+                    [kas_keluar] => 13800000
+                    [status] => Keluar
+                )
+
+            [23] => Array
+                (
+                    [id_kas_masjid] => 34
+                    [id_user] => 
+                    [ket] => Nasi Sedekah Subuh
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 0
+                    [kas_keluar] => 600000
+                    [status] => Keluar
+                )
+
+            [24] => Array
+                (
+                    [id_kas_masjid] => 23
+                    [id_user] => 
+                    [ket] => Shodaqoh Bu Hj. Muinah
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 800000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [25] => Array
+                (
+                    [id_kas_masjid] => 22
+                    [id_user] => 
+                    [ket] => Kotak Minum
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 207000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [26] => Array
+                (
+                    [id_kas_masjid] => 21
+                    [id_user] => 
+                    [ket] => Shodaqoh  Dek Ali
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 1250000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [27] => Array
+                (
+                    [id_kas_masjid] => 20
+                    [id_user] => 
+                    [ket] => Shodaqoh Syarifah
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 500000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [28] => Array
+                (
+                    [id_kas_masjid] => 19
+                    [id_user] => 
+                    [ket] => Shodaqoh Lily Vikly
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 1000000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [29] => Array
+                (
+                    [id_kas_masjid] => 18
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 4650000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [30] => Array
+                (
+                    [id_kas_masjid] => 17
+                    [id_user] => 
+                    [ket] => Kotak Kecil
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 4267000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [31] => Array
+                (
+                    [id_kas_masjid] => 16
+                    [id_user] => 
+                    [ket] => Kotak Besar
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 8331000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [32] => Array
+                (
+                    [id_kas_masjid] => 35
+                    [id_user] => 
+                    [ket] => Operasional Jum'at V
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 0
+                    [kas_keluar] => 1484000
+                    [status] => Keluar
+                )
+
+        )
+
+    [totalPemasukanBefore] => 388159661
+    [totalPengeluaranBefore] => 363386964
+    [saldoSebelumTglAwal] => 24772697
+    [totalPemasukan] => 75725000
+    [totalPengeluaran] => 65221000
+    [saldoAkhir] => 10504000
+    [totalpemasukansetelah] => 463884661
+    [totalpengeluaransetelah] => 428607964
+    [totalsaldosetelah] => 35276697
+    [tanggalSekarang] => 30 Juli 2024
+    [namaKetua] => Drs. H. Noor Badi, M.M
+    [namaBendahara] => H. Asyrofi As'ad
+    [masjid] => Array
+        (
+            [id] => 1
+            [nama_masjid] => Masjid Agung Kudus
+            [id_kota] => 1415
+            [alamat] => Jl. Simpang Tujuh, Kudus, Demaan, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59317
+            [gambar1] => 1722321487_8608834a4672cc44a04e.jpeg
+            [gambar2] => 1722232199_8f6607b9370c2a2d73a0.jpg
+            [gambar3] => 1722239200_c8fb8d22d7fe8b357741.jpg
+        )
+
+)
+
+INFO - 2024-07-30 18:52:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 18:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 18:54:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 18:54:02 --> Tanggal Awal: 2024-07-01
+INFO - 2024-07-30 18:54:02 --> Tanggal Akhir: 2024-07-30
+INFO - 2024-07-30 18:54:02 --> Data untuk view: Array
+(
+    [judultglawal] => 01 Juli 2024
+    [judultglakhir] => 30 Juli 2024
+    [tglAwal] => 2024-07-01
+    [tglAkhir] => 2024-07-30
+    [kas] => Array
+        (
+            [0] => Array
+                (
+                    [id_kas_masjid] => 2
+                    [id_user] => 
+                    [ket] => Kotak Besar
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 4585000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [1] => Array
+                (
+                    [id_kas_masjid] => 25
+                    [id_user] => 
+                    [ket] => Kegiatan APAB (Konsumsi dan Bisyaroh)
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 0
+                    [kas_keluar] => 2455000
+                    [status] => Keluar
+                )
+
+            [2] => Array
+                (
+                    [id_kas_masjid] => 26
+                    [id_user] => 
+                    [ket] => Operasional Jum'at I
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 0
+                    [kas_keluar] => 3457000
+                    [status] => Keluar
+                )
+
+            [3] => Array
+                (
+                    [id_kas_masjid] => 6
+                    [id_user] => 
+                    [ket] => Shodaqoh Hamba Allah
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 1000000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [4] => Array
+                (
+                    [id_kas_masjid] => 5
+                    [id_user] => 
+                    [ket] => Kotak WC luar
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 287000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [5] => Array
+                (
+                    [id_kas_masjid] => 4
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 4655000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [6] => Array
+                (
+                    [id_kas_masjid] => 3
+                    [id_user] => 
+                    [ket] => Kotak kecil
+                    [tanggal] => 2024-07-01
+                    [kas_masuk] => 4100000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [7] => Array
+                (
+                    [id_kas_masjid] => 28
+                    [id_user] => 
+                    [ket] => Operasional Jum'at II
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 0
+                    [kas_keluar] => 2682000
+                    [status] => Keluar
+                )
+
+            [8] => Array
+                (
+                    [id_kas_masjid] => 27
+                    [id_user] => 
+                    [ket] => Titip Bapak H. Sunari (plapon luar)
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 0
+                    [kas_keluar] => 10000000
+                    [status] => Keluar
+                )
+
+            [9] => Array
+                (
+                    [id_kas_masjid] => 9
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 3310000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [10] => Array
+                (
+                    [id_kas_masjid] => 8
+                    [id_user] => 
+                    [ket] => Kotak Kecil
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 5908000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [11] => Array
+                (
+                    [id_kas_masjid] => 7
+                    [id_user] => 
+                    [ket] => Kotak Besar
+                    [tanggal] => 2024-07-08
+                    [kas_masuk] => 4807000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [12] => Array
+                (
+                    [id_kas_masjid] => 10
+                    [id_user] => 
+                    [ket] => Kotak Keseluruhan
+                    [tanggal] => 2024-07-15
+                    [kas_masuk] => 12642000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [13] => Array
+                (
+                    [id_kas_masjid] => 29
+                    [id_user] => 
+                    [ket] => Listrik Des
+                    [tanggal] => 2024-07-15
+                    [kas_masuk] => 0
+                    [kas_keluar] => 3973000
+                    [status] => Keluar
+                )
+
+            [14] => Array
+                (
+                    [id_kas_masjid] => 30
+                    [id_user] => 
+                    [ket] => Operasional Jum'at III
+                    [tanggal] => 2024-07-15
+                    [kas_masuk] => 0
+                    [kas_keluar] => 2745000
+                    [status] => Keluar
+                )
+
+            [15] => Array
+                (
+                    [id_kas_masjid] => 31
+                    [id_user] => 
+                    [ket] => Bayar CV
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 0
+                    [kas_keluar] => 20550000
+                    [status] => Keluar
+                )
+
+            [16] => Array
+                (
+                    [id_kas_masjid] => 32
+                    [id_user] => 
+                    [ket] => Operasional Jum'at IV
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 0
+                    [kas_keluar] => 3475000
+                    [status] => Keluar
+                )
+
+            [17] => Array
+                (
+                    [id_kas_masjid] => 14
+                    [id_user] => 
+                    [ket] => Al Khikmah
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 200000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [18] => Array
+                (
+                    [id_kas_masjid] => 15
+                    [id_user] => 
+                    [ket] => Ahbabul Mustofa
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 400000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [19] => Array
+                (
+                    [id_kas_masjid] => 13
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 4665000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [20] => Array
+                (
+                    [id_kas_masjid] => 12
+                    [id_user] => 
+                    [ket] => Kotak Kecil
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 4200000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [21] => Array
+                (
+                    [id_kas_masjid] => 11
+                    [id_user] => 
+                    [ket] => Kotak besar
+                    [tanggal] => 2024-07-22
+                    [kas_masuk] => 3961000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [22] => Array
+                (
+                    [id_kas_masjid] => 33
+                    [id_user] => 
+                    [ket] => Bisyaroh+Operasional Bulanan
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 0
+                    [kas_keluar] => 13800000
+                    [status] => Keluar
+                )
+
+            [23] => Array
+                (
+                    [id_kas_masjid] => 34
+                    [id_user] => 
+                    [ket] => Nasi Sedekah Subuh
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 0
+                    [kas_keluar] => 600000
+                    [status] => Keluar
+                )
+
+            [24] => Array
+                (
+                    [id_kas_masjid] => 23
+                    [id_user] => 
+                    [ket] => Shodaqoh Bu Hj. Muinah
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 800000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [25] => Array
+                (
+                    [id_kas_masjid] => 22
+                    [id_user] => 
+                    [ket] => Kotak Minum
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 207000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [26] => Array
+                (
+                    [id_kas_masjid] => 21
+                    [id_user] => 
+                    [ket] => Shodaqoh  Dek Ali
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 1250000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [27] => Array
+                (
+                    [id_kas_masjid] => 20
+                    [id_user] => 
+                    [ket] => Shodaqoh Syarifah
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 500000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [28] => Array
+                (
+                    [id_kas_masjid] => 19
+                    [id_user] => 
+                    [ket] => Shodaqoh Lily Vikly
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 1000000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [29] => Array
+                (
+                    [id_kas_masjid] => 18
+                    [id_user] => 
+                    [ket] => Parkir
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 4650000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [30] => Array
+                (
+                    [id_kas_masjid] => 17
+                    [id_user] => 
+                    [ket] => Kotak Kecil
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 4267000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [31] => Array
+                (
+                    [id_kas_masjid] => 16
+                    [id_user] => 
+                    [ket] => Kotak Besar
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 8331000
+                    [kas_keluar] => 0
+                    [status] => Masuk
+                )
+
+            [32] => Array
+                (
+                    [id_kas_masjid] => 35
+                    [id_user] => 
+                    [ket] => Operasional Jum'at V
+                    [tanggal] => 2024-07-27
+                    [kas_masuk] => 0
+                    [kas_keluar] => 1484000
+                    [status] => Keluar
+                )
+
+        )
+
+    [totalPemasukanBefore] => 388159661
+    [totalPengeluaranBefore] => 363386964
+    [saldoSebelumTglAwal] => 24772697
+    [totalPemasukan] => 75725000
+    [totalPengeluaran] => 65221000
+    [saldoAkhir] => 10504000
+    [totalpemasukansetelah] => 463884661
+    [totalpengeluaransetelah] => 428607964
+    [totalsaldosetelah] => 35276697
+    [tanggalSekarang] => 30 Juli 2024
+    [namaKetua] => Drs. H. Noor Badi, M.M
+    [namaBendahara] => H. Asyrofi As'ad
+    [masjid] => Array
+        (
+            [id] => 1
+            [nama_masjid] => Masjid Agung Kudus
+            [id_kota] => 1415
+            [alamat] => Jl. Simpang Tujuh, Kudus, Demaan, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59317
+            [gambar1] => 1722321487_8608834a4672cc44a04e.jpeg
+            [gambar2] => 1722232199_8f6607b9370c2a2d73a0.jpg
+            [gambar3] => 1722239200_c8fb8d22d7fe8b357741.jpg
+        )
+
+)
+
+INFO - 2024-07-30 18:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 18:54:05 --> Data yang diterima: {"tgl_cetak":"2024-07-30 18:54:05","total_pemasukan":"75725000","total_pengeluaran":"65221000","saldo":"10504000","saldo_sebelumnya":"24772697","saldo_setelahnya":"35276697","tgl_awal":"2024-07-01","tgl_akhir":"2024-07-30","ketua_umum":"Drs. H. Noor Badi, M.M","bendahara":"H. Asyrofi As'ad","id_user":"20"}
+INFO - 2024-07-30 18:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 18:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:05:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:19:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:19:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:20:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:25:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:25:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:25:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:29:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:55:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 19:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:01:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-30 23:01:55 --> file_get_contents(https://api.myquran.com/v2/sholat/kota/semua): Failed to open stream: HTTP request failed! HTTP/1.1 522 
+
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.myquran.com/v2/sholat/kota/semua): Failed to open stream: HTTP request failed! HTTP/1.1 522 
+', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Controllers\\Admin.php', 58)
+ 2 APPPATH\Controllers\Admin.php(58): file_get_contents('https://api.myquran.com/v2/sholat/kota/semua')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->Setting()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-30 23:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:17:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:22:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-30 23:24:05 --> file_get_contents(https://api.myquran.com/v2/sholat/kota/semua): Failed to open stream: HTTP request failed! HTTP/1.1 522 
+
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.myquran.com/v2/sholat/kota/semua): Failed to open stream: HTTP request failed! HTTP/1.1 522 
+', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Controllers\\Admin.php', 58)
+ 2 APPPATH\Controllers\Admin.php(58): file_get_contents('https://api.myquran.com/v2/sholat/kota/semua')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->Setting()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-30 23:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-30 23:24:50 --> file_get_contents(https://api.myquran.com/v2/sholat/kota/semua): Failed to open stream: HTTP request failed! HTTP/1.1 522 
+
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.myquran.com/v2/sholat/kota/semua): Failed to open stream: HTTP request failed! HTTP/1.1 522 
+', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Controllers\\Admin.php', 58)
+ 2 APPPATH\Controllers\Admin.php(58): file_get_contents('https://api.myquran.com/v2/sholat/kota/semua')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->Setting()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-30 23:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-30 23:25:30 --> file_get_contents(https://api.myquran.com/v2/sholat/kota/semua): Failed to open stream: HTTP request failed! HTTP/1.1 522 
+
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.myquran.com/v2/sholat/kota/semua): Failed to open stream: HTTP request failed! HTTP/1.1 522 
+', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Controllers\\Admin.php', 58)
+ 2 APPPATH\Controllers\Admin.php(58): file_get_contents('https://api.myquran.com/v2/sholat/kota/semua')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->Setting()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-30 23:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:25:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:26:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:26:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-30 23:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-30 23:27:15 --> file_get_contents(https://api.myquran.com/v2/sholat/jadwal/1415/2024/07/30): Failed to open stream: HTTP request failed! HTTP/1.1 522 
+
+in APPPATH\Controllers\Home.php on line 40.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.myquran.com/v2/sholat/jadwal/1415/2024/07/30): Failed to open stream: HTTP request failed! HTTP/1.1 522 
+', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Controllers\\Home.php', 40)
+ 2 APPPATH\Controllers\Home.php(40): file_get_contents('https://api.myquran.com/v2/sholat/jadwal/1415/2024/07/30')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 23:27:34 --> file_get_contents(https://api.myquran.com/v2/sholat/kota/semua): Failed to open stream: HTTP request failed! HTTP/1.1 522 
+
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.myquran.com/v2/sholat/kota/semua): Failed to open stream: HTTP request failed! HTTP/1.1 522 
+', 'C:\\xampp\\htdocs\\Simasjid-CI4\\app\\Controllers\\Admin.php', 58)
+ 2 APPPATH\Controllers\Admin.php(58): file_get_contents('https://api.myquran.com/v2/sholat/kota/semua')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->Setting()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
